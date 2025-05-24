@@ -1,6 +1,6 @@
 # Tesla and GameStop Stock Analysis 📈
 
-This project was created as the final assignment for the **[Python Project for Data Science](https://www.coursera.org/learn/python-for-data-science-project)** course offered by **IBM on Coursera**.
+This project was created as the final assignment for the **[Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science)** course offered by **IBM on Coursera**.
 
 It involves fetching and analyzing stock price and revenue data for **Tesla (TSLA)** and **GameStop (GME)** using Python.
 
@@ -36,18 +36,11 @@ It involves fetching and analyzing stock price and revenue data for **Tesla (TSL
 ---
 
 ## 📚 Course Information
-- 📌 Course: [Python Project for Data Science](https://www.coursera.org/learn/python-for-data-science-project)
+- 📌 Course: [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science)
 - 🏫 Provider: IBM / Coursera
 
 ---
 
 ## 📌 Author
-- 👤 [Your Name Here]
-- 🌐 [Your GitHub Profile](https://github.com/your-username)
-
----
-
-## ✅ How to Run
-```bash
-pip install -r requirements.txt
-jupyter notebook Final_Assignment.ipynb
+- 👤 [Follow Me on GitHub]
+- 🌐 [Your GitHub Profile](https://github.com/Nikhilsai-M)
