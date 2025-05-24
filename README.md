@@ -44,3 +44,10 @@ It involves fetching and analyzing stock price and revenue data for **Tesla (TSL
 ## 📌 Author
 - 👤 [Follow Me on GitHub]
 - 🌐 [Your GitHub Profile](https://github.com/Nikhilsai-M)
+
+---
+
+## ✅ How to Run
+```bash
+pip install -r requirements.txt
+jupyter notebook Final_Assignment.ipynb
