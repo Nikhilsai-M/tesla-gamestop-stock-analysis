@@ -47,5 +47,5 @@ It involves fetching and analyzing stock price and revenue data for **Tesla (TSL
 
 ## ✅ How to Run
 ```bash
-pip install -r requirements.txt
+pip install -r (requirements)
 jupyter notebook Final_Assignment.ipynb
